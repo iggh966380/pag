@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "randompag-8a4bc": {
+      "hosting": {
+        "pag": [
+          "randompag-8a4bc"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "randompag-8a4bc"
+  }
+}
