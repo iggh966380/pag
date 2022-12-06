@@ -4,7 +4,7 @@
 
 ## 技術端
 
-使用到的技術: 前端 - angular, 後端 -firebase 
+使用到的技術: 前端 - angular, 資料庫api串接 - firebase 
 
 ## 使用
 
